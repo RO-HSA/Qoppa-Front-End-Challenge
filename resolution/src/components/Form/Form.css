@@ -1,0 +1,22 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 32px;
+}
+
+.form-btn {
+    width: 100px;
+    border: none;
+    background-color: #3498db;
+    border-radius: 8px;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.form-input {
+    margin-bottom: 16px;
+    padding: 8px;
+    border-radius: 8px;
+    border-color: #3498db;
+}
