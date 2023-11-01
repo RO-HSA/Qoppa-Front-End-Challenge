@@ -11,9 +11,9 @@ const Form = () => {
         e.preventDefault()
 
         const data = {
-            username: username,
-            email: email,
-            password: password
+            username,
+            email,
+            password
         }
 
         try {
